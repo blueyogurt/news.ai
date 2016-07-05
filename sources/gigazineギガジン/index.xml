@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工知能まとめ速報 - スマホでみやすいシンプルまとめ </title>
+    <link>http://news.ai.yogurt.blue/sources/gigazine%E3%82%AE%E3%82%AC%E3%82%B8%E3%83%B3/</link>
+    <description>Recent content in GIGAZINE（ギガジン） on 人工知能まとめ速報 - スマホでみやすいシンプルまとめ</description>
+    
+    <language>ja-JP</language>
+    
+    
+    <rights>(C) 2016</rights>
+    <updated>2016-06-28 07:00:00 &#43;0000 UTC</updated>
+    
+    <lastBuildDate>Tue, 28 Jun 2016 07:00:00 +0000</lastBuildDate>
+    
+    <docs>http://news.ai.yogurt.blue/sources/gigazine%E3%82%AE%E3%82%AC%E3%82%B8%E3%83%B3/index.xml</docs>
+    <atom:link href="http://news.ai.yogurt.blue/sources/gigazine%E3%82%AE%E3%82%AC%E3%82%B8%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+
+    
+      
+        <item>
+          <title>持ち主の顔・名前・クセを学習して一緒にゲームして遊べるAI搭載ロボット「Cozmo」をAnkiが発表</title>
+          <link>http://news.ai.yogurt.blue/post/mochinushinokaonamaekusewogakushuushiteisshonige-mushiteasoberuAItousairobottoCozmowoAnkigahappyou/</link>
+          <pubDate>Tue, 28 Jun 2016 07:00:00 UTC</pubDate>
+          
+          <guid>http://news.ai.yogurt.blue/post/mochinushinokaonamaekusewogakushuushiteisshonige-mushiteasoberuAItousairobottoCozmowoAnkigahappyou/</guid>
+          <description></description>
+        </item>
+      
+    
+      
+        <item>
+          <title>ディープラーニングで映像にあわせて効果音を乗せるアルゴリズムが登場、映像に音を乗せるとこうなる</title>
+          <link>http://news.ai.yogurt.blue/post/di-pura-ningudeeizouniawasetekoukaonwonoseruarugorizumugatoujoueizouniotowonoserutokounaru/</link>
+          <pubDate>Sat, 25 Jun 2016 22:00:00 UTC</pubDate>
+          
+          <guid>http://news.ai.yogurt.blue/post/di-pura-ningudeeizouniawasetekoukaonwonoseruarugorizumugatoujoueizouniotowonoserutokounaru/</guid>
+          <description></description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
